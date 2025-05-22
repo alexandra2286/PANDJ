@@ -1,0 +1,1 @@
+export default function BehaviorChartApp() { return <div>Behavior Chart App</div>; }
